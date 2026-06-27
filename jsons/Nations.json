@@ -1,9 +1,9 @@
 [
 	{
 		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"leaderName": "ワーリッド=テラ",
+		"adjective": ["勝気恩の"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
