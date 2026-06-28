@@ -5,7 +5,7 @@
 		"adjective": ["勝気恩の"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
-		"personality": "指導者の人格(指導者と同じやつを入れて、別ファイルで行動傾向を調整)",
+		//"personality": "指導者の人格(指導者と同じやつを入れて、別ファイルで行動傾向を調整)",
 
 		"startIntroPart1": "勝気恩帝国は、他の列強に比べ圧倒的に小さい領土でありながらも、世界中に影響力を持ち、1度は滅んでも革命により再び列強に返り咲いた。",
 		"startIntroPart2": "紀元前に起きた内戦において台頭したワーリッド家は圧倒的な内政力を持つ。存在そのものが国民を動かすエネルギーとなるのだ。",
@@ -22,7 +22,7 @@
 
 		"outerColor": [70,165,255],
 		"innerColor": [85,202,255],
-		"favoredReligion": "アイコン未完成(自神論)",
+		//"favoredReligion": "アイコン未完成(自神論)",
 		"uniqueName": "共民主義",
 		"uniques": [
   			"May adopt social policies from any era",
