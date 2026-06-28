@@ -31,7 +31,4 @@
 		"cities": ["テラス","スターランド","レボリオン","ファスター","レジリオン","ファーラム","シーコック","オアリー","トレジボル","ノジェイル"],
         "spyNames": ["レバールス","ランタラス","ミラクロ","オリラント"]
 	}
-	  			// "[1]% [Culture] [In all cities] for every excess Happiness",
-  			// "[1]% [Science] [In all cities] for every excess Happiness",
-			// "All newly-trained [Military] units [in all cities] receive the [革命精神] promotion"
 ]
